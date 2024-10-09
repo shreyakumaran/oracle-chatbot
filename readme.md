@@ -49,17 +49,9 @@ To launch the Streamlit app and interact with the chatbot:
 streamlit run app.py
 ```
 
-## Contributing
-As this repository accompanies the [YouTube video tutorial](https://youtu.be/YqqRkuizNN4), we are primarily focused on providing a comprehensive learning experience. Contributions for bug fixes or typos are welcome.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
----
 
-**Note**: This project is intended for educational and research purposes. Please ensure compliance with the terms of use and guidelines of any APIs or services used.
-
----
 
 
 
